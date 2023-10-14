@@ -19,7 +19,7 @@ export class API {
       this.songs = data.tracks;
 
     } catch (err) {
-      console.log("hata oluştu...");
+      console.log("Error");
     }
   }
 

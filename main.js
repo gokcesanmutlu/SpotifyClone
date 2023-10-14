@@ -35,7 +35,7 @@ ele.searchForm.addEventListener("submit", (e) => {
 
   renderLoader();
 
-  ele.title.innerHTML = `${query} için sonuçlar`
+  ele.title.innerHTML = `Result for ${query}`
   //buraya kadar yaptığımız şeylerin sonucu olarak, örneğin user inputta eminem'i aratınca
   //başlık Eminem için sonuçlar olarak değişecek. 
   //bundan sonraki aşamada da bir apı isteği tanımlayıp gerçekten sonuçları almamız lazım
