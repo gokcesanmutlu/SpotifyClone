@@ -27,4 +27,4 @@
 Screenshot ![spotifyClone](spotifyclone.gif)
 
 
-<!-- likelama ekle projeye --># SpotifyClone
+<!-- likelama ekle projeye -->
